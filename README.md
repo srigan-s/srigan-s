@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Srigan!
 
-🚀 I’m a ECE student @ University of Waterloo and a developer passionate about **creating social impact through software**. Whether it’s building educational tools for underprivileged youth or exploring new technologies, I’m always working on projects that make a difference.
+🚀 I’m a ECE student @ **University of Waterloo** and a developer passionate about **creating social impact through software**. Whether it’s building educational tools for underprivileged youth or exploring new technologies, I’m always working on projects that make a difference.
 
 ---
 
