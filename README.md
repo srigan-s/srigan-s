@@ -6,7 +6,7 @@
 
 ## 💡 What I’m Working On
 
-- 🎮 **[MiniAI](https://github.com/srigan-s/MiniAI-Refresh-2025)** — Teaching kids about AI through gamified lessons
+- 🎮 **[MiniAI](https://github.com/srigan-s/MiniAIWebApp)** — Teaching kids about AI through gamified lessons
 - 🏥 **[Daisy's Journey](https://github.com/srigan-s/DaisyJourneyClient)** — Building a hospital volunteer platform to streamline patient support and organize compassionate care.
 - ⚙️ Building impact-driven apps that educate, empower, and connect
 - 🔍 Exploring AI, hardware, education tech, and beyond
