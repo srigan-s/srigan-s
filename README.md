@@ -29,7 +29,7 @@
 ## 🌍 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srigan-sivagnanenthirarajah-418601206/)
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://srigan-s.github.io/)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://srigan.ca/)
 
 ---
 
