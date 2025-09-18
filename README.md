@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![Srigan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srigan-s&show_icons=true&theme=tokyonight&cache_seconds=0)
+![Srigan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srigan-s&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srigan-s&layout=compact&theme=tokyonight)
 
 ---
