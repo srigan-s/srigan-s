@@ -21,7 +21,8 @@
 
 ## 📊 GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/srigan-s/srigan-s/main/github-metrics.svg)
+![](https://raw.githubusercontent.com/srigan-s/srigan-s/master/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/srigan-s/srigan-s/master/profile-summary-card-output/default/1-repos-per-language.svg)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srigan-s&layout=compact&theme=tokyonight)
 
 ---
