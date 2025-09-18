@@ -21,8 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/srigan-s/srigan-s/master/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/srigan-s/srigan-s/master/profile-summary-card-output/default/1-repos-per-language.svg)
+![Srigan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srigan-s&theme=tokyo-night)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srigan-s&layout=compact&theme=tokyonight)
 
 ---
