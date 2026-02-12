@@ -21,9 +21,7 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-[![Srigan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srigan-s)](https://github.com/srigan-s/github-readme-stats)
+[![Srigan's GitHub stats](https://github-readme-stats.vercel.app/apisrigan-s=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Srigan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srigan-s&theme=tokyo-night)
 
 ---
