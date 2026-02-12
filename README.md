@@ -21,7 +21,12 @@
 
 ## 📊 GitHub Stats
 
-![Srigan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srigan-s\&show_icons=true\&theme=tokyonight\&hide_border=true)
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=srigan-s\&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/srigan-s?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/srigan-s?style=for-the-badge)
+
 ![Srigan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srigan-s&theme=tokyo-night)
 
 ---
