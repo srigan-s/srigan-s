@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-[![Srigan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srigan-s&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/srigan-s)
+![Srigan's GitHub Streak](https://streak-stats.demolab.com?user=srigan-s&theme=tokyonight&hide_border=true)
 ![Srigan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srigan-s&theme=tokyo-night)
 
 ---
