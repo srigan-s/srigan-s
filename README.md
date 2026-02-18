@@ -7,7 +7,7 @@
 ## 💡 What I’m Working On
 
 - 🎮 **[MiniAI](https://github.com/srigan-s/MiniAIWebApp)** — Teaching kids about AI through gamified lessons
-- 🏥 **[Daisy's Journey](https://github.com/srigan-s/DaisyJourneyClient)** — Building a hospital volunteer platform to streamline patient support and organize compassionate care.
+- 🤖 **[Robotic Computer Vision Turret Auto-Align](https://pr0teens.netlify.app)** — Designing and implementing a real-time vision-based turret alignment system that integrates odometry, Limelight targeting, and closed-loop PID control to automatically aim and adjust shooter parameters while the robot is in motion.
 - ⚙️ Building impact-driven apps that educate, empower, and connect
 - 🔍 Exploring AI, hardware, education tech, and beyond
 
